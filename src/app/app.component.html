@@ -1,0 +1,27 @@
+ <!--< <p>Parent component</p>
+
+<input type="text" [(ngModel)]="myValue" />
+<input type="button" value="Click here" (click) = "callAction()" />
+<input type="button" value="Clear" (click) = "clearAction()" />
+
+<button (click)="displayChild()">Display Child</button>
+
+
+<table>
+  <tr *ngFor="let value of myValues">
+    <td>
+      {{value}}
+    </td>
+  
+  </tr>
+</table>
+<br>
+-->
+<app-header></app-header>
+<router-outlet></router-outlet>
+
+<!--<app-catalog *ngIf="isChildVisible" [myValue] = "myValue"></app-catalog>-->
+
+<!--<app-cart> </app-cart>-->
+
+<!--<app-catalog *ngIf="price > 100"></app-catalog>-->

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file source-language="en-US" datatype="plaintext" original="ng2.template">
+    <body>
+      <trans-unit id="7134073290217452959" datatype="html">
+        <source> Smart Phone </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/catalog/catalog.component.html</context>
+          <context context-type="linenumber">6,8</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8322099878050577295" datatype="html">
+        <source> Tablet </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/catalog/catalog.component.html</context>
+          <context context-type="linenumber">8,10</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1750086270207082037" datatype="html">
+        <source> Smart TV </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/catalog/catalog.component.html</context>
+          <context context-type="linenumber">10,12</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8386976308507652568" datatype="html">
+        <source> All </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/catalog/catalog.component.html</context>
+          <context context-type="linenumber">12,14</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
